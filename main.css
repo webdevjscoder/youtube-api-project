@@ -1,0 +1,23 @@
+.popup {
+    background-color: black;
+    position: absolute;
+    border: 2px solid white;
+    z-index: 5000;
+    width: 600px;
+    min-height: auto;
+    top: 100px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+.overlay-background {
+    background-color: #333;
+    opacity: 0.5;
+    position: absolute;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    min-height: 100%;
+}
