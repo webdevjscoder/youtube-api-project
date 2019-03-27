@@ -54,8 +54,6 @@ function searchYouTube() {
 //allows users to search
 //for videos
 
-//key: AIzaSyD_pPgvn4I7JksiE8bMIshUiOfLHl4zbBE
-
 
 //parameters being used
 //-part set to 'snippet'
