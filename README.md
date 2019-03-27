@@ -11,7 +11,7 @@ Instructions for an Authorization Key:
 
 You will need a google account, if you don't have one, you will need to create one.
 
-1. Copy and paste the url link in your browser
+1. Copy and paste the url link in your browser or just click it if you can
 https://console.developers.google.com/apis/library?project=youtube-api-project-01&folder&organizationId
 
 2. Scroll down and click on the YouTube API
