@@ -32,7 +32,6 @@ function searchYouTube() {
         dataType: 'json',
         type: 'GET',
         data: {
-            key: 'AIzaSyD_pPgvn4I7JksiE8bMIshUiOfLHl4zbBE',
             q: $('.js-search-box').val(),
             part: 'snippet',
             maxResults: 5,
