@@ -32,6 +32,7 @@ function searchYouTube() {
         dataType: 'json',
         type: 'GET',
         data: {
+            //add api key here
             q: $('.js-search-box').val(),
             part: 'snippet',
             maxResults: 5,
